@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hi  :coffee:
+## Think you interested about this page?!
 
+- :rocket: I’m currently working on [clone Trello backend](https://github.com/spaceragga/task4-typescript-basics).
+- :mortar_board: I’m currently learning [Node.js](https://en.wikipedia.org/wiki/Node.js).
+
+- :speech_balloon: Ask me about you want.
+- ⚡ How to reach me: just commit!
 <!--
 **spaceragga/spaceragga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
