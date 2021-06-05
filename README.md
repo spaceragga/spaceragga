@@ -6,6 +6,14 @@
 
 - :speech_balloon: Ask me about you want.
 - ⚡ How to reach me: just commit!
+________________
+
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=spaceragga&show_icons=true)
+ ____________
+ ### Some random joke!
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+ 
 <!--
 **spaceragga/spaceragga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
