@@ -3,7 +3,7 @@
 
 - :rocket: I’m currently working on [clone Trello backend](https://github.com/spaceragga/task4-typescript-basics).
 - :mortar_board: I’m currently learning [Node.js](https://en.wikipedia.org/wiki/Node.js).
-- :books: I’m currently read [Learning Node, 2nd Edition](https://www.oreilly.com/library/view/learning-node-2nd/9781491943113/)
+- :books: I’m currently read [Serverless Applications with Node.js](https://www.manning.com/books/serverless-applications-with-node-js)
 
 
 - :speech_balloon: Ask me about you want.
