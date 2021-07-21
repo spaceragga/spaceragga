@@ -1,7 +1,7 @@
 # Hi  :coffee:
 ## Think you interested about this page?!
 
-- :rocket: I’m currently working on [clone Trello backend](https://github.com/spaceragga/task4-typescript-basics).
+- :rocket: I’m currently working on [clone Trello backend on Nest.js](https://github.com/spaceragga/trello-nest.js).
 - :mortar_board: I’m currently learning [Node.js](https://en.wikipedia.org/wiki/Node.js).
 - :books: I’m currently read [JavaScript: The Definitive Guide, 7th Edition](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
 
