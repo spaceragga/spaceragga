@@ -4,6 +4,7 @@
 - :rocket: I’m currently working on [clone Trello backend on Nest.js](https://github.com/spaceragga/trello-nest.js).
 - :mortar_board: I’m currently learning [Node.js](https://en.wikipedia.org/wiki/Node.js).
 - :books: I’m currently read [JavaScript: The Definitive Guide, 7th Edition](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
+- :coffee: I’m on [Codewars](https://www.codewars.com/users/drop%20out)
 
 
 - :speech_balloon: Ask me about you want.
