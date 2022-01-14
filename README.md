@@ -1,10 +1,11 @@
 # Hi  :coffee:
 ## Think you interested about this page?!
 
-- :rocket: I’m currently working on [clone Trello backend on Nest.js](https://github.com/spaceragga/trello-nest.js).
-- :mortar_board: I’m currently learning [Node.js](https://en.wikipedia.org/wiki/Node.js).
-- :books: I’m currently read [JavaScript: The Definitive Guide, 7th Edition](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
+- :rocket: I’m currently working on an online shop selling video games, full-stack project with admin panel.
+- :mortar_board: I’m currently learning in more depth [TypeScript](https://en.wikipedia.org/wiki/TypeScript) and [Nest.js](https://nestjs.com/).
+- :books: I’m currently read [TypeScript Quickly](https://www.manning.com/books/typescript-quickly)
 - :coffee: I’m on [Codewars](https://www.codewars.com/users/drop%20out)
+- 📘 I'm on [LinkedIn](https://www.linkedin.com/in/ivan-mikhalchanka-8842a5206)
 
 
 - :speech_balloon: Ask me about you want.
