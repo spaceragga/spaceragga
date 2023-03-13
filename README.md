@@ -1,9 +1,9 @@
 # Hi  :coffee:
 ## Think you interested about this page?!
 
-- :rocket: I’m currently working on an online shop selling video games, full-stack project with admin panel.
-- :mortar_board: I’m currently learning in more depth [TypeScript](https://en.wikipedia.org/wiki/TypeScript) and [Nest.js](https://nestjs.com/).
-- :books: I’m currently read [TypeScript Quickly](https://www.manning.com/books/typescript-quickly)
+- :rocket: I'm currently working on several commercial projects with a modern technology stack.
+- :mortar_board: I’m currently learning in more depth [GraphQL](https://graphql.org/) and [Next.js](https://nextjs.org/).
+- :books: I’m currently read [Clean Architecture](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/)
 - :coffee: I’m on [Codewars](https://www.codewars.com/users/drop%20out)
 - 📘 I'm on [LinkedIn](https://www.linkedin.com/in/ivan-mikhalchanka-8842a5206)
 
