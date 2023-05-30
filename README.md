@@ -1,5 +1,5 @@
 # Hi  :coffee:
-## Think you interested about this page?!
+## Think you are interested in this page?!
 
 - :rocket: I'm currently working on several commercial projects with a modern technology stack.
 - :mortar_board: I’m currently learning in more depth [GraphQL](https://graphql.org/) and [Next.js](https://nextjs.org/).
